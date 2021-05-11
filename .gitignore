@@ -1,0 +1,8 @@
+
+# ignore this folders
+/node_modules
+
+package-lock.json
+
+# ignore this file
+.env
