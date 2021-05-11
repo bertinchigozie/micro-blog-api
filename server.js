@@ -19,6 +19,7 @@ const PORT =5001;
 
 /**Adding Middlewares */
 app.use(bodyParser.json());
+app.use(cors());
 
 
 /**ROutes */
